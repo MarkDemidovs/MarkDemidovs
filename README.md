@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/markdemidovs" target="blank"><img src="https://img.shields.io/twitter/follow/markdemidovs?logo=twitter&style=for-the-badge" alt="markdemidovs" /></a> </p>
 
-- 🔭 I’m currently working on [ManabuCode]([https://github.com/MarkDemidovs/ez.post](https://github.com/MarkDemidovs/manabucode))
+- 🔭 I’m currently working on [Something..](#)
 
 - 🌱 I’m currently learning **more about Node.js + Express**
 
