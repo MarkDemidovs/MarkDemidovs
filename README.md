@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Something..](#)
 
-- 🌱 I’m currently learning **more about Node.js + Express**
+- 🌱 I’m currently learning **more about DSA**
 
 - 👨‍💻 All of my projects are available at [https://rb.gy/sxd32y](https://rb.gy/sxd32y)
 
