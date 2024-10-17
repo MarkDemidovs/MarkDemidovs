@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://rb.gy/sxd32y](https://rb.gy/sxd32y)
 
-- 💬 Ask me about **Computer Science**
-
 - 📫 How to reach me **markdemidovs@proton.me**
 
 - ⚡ Fun fact **debian btw**
