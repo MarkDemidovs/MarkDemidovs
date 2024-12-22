@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/markdemidovs" target="blank"><img src="https://img.shields.io/twitter/follow/markdemidovs?logo=twitter&style=for-the-badge" alt="markdemidovs" /></a> </p>
 
-- 🔭 I’m currently working on [....](#)
+- 🔭 I’m currently working on [....](https://github.com/MarkDemidovs/langern)
 
 - 🌱 I’m currently learning **More about PostgreSQL**
 
