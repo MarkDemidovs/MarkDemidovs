@@ -9,7 +9,7 @@
 
 - i'm currently learning **backend, seriously**
 
-- my favourite language **c++ or typescript**
+- my favourite languages are **c++ and typescript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
