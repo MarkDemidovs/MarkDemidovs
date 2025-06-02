@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Mark</h1>
+<h1 align="center">Hey, I'm Mark.</h1>
 <h3 align="center">Currently a 15y-old Full-Stack programmer from Latvia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markdemidovs&label=Profile%20views&color=0e75b6&style=flat" alt="markdemidovs" /> </p>
