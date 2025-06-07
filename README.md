@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/markdemidovs" target="blank"><img src="https://img.shields.io/twitter/follow/markdemidovs?logo=twitter&style=for-the-badge" alt="markdemidovs" /></a> </p>
 
-- i'm currently learning **backend, seriously**
+- i'm currently learning **backend database technologies**
 
 - my favourite languages are **c++ and typescript**
 
