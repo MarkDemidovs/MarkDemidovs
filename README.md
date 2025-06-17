@@ -9,7 +9,7 @@
 
 - i'm currently learning **more about SQL, and advanced C++!**
 
-- my favourite languages are **c++ and typescript**
+- my favourite programming languages are **c++ and typescript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
