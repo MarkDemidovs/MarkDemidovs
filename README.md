@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/markdemidovs" target="blank"><img src="https://img.shields.io/twitter/follow/markdemidovs?logo=twitter&style=for-the-badge" alt="markdemidovs" /></a> </p>
 
-- i'm currently learning **more about SQL, and advanced C++!**
+- i'm currently learning literally everything. 
 
 - my favourite programming languages are **c++ and typescript**
 
