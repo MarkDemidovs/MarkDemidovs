@@ -12,6 +12,7 @@
 - my favourite programming languages are **c++ and typescript**
 
 - 7/11/2025 10 follower milestone
+- 7/17/2025 15 follower milestone
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
