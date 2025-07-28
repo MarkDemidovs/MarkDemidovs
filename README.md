@@ -7,7 +7,7 @@ Hello! My name is Mark, and I am passionate about Full-Stack development as well
 
 <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fmarkdemidovs">
 
-## :hammer: Here are the tools, libraries, technologies, frameworks and programming langauges I've worked or work with:
+## :hammer: Here are the tools, libraries, technologies, frameworks and programming langauges I work with:
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
