@@ -1,4 +1,4 @@
-# 🔮 Mark Demidovs
+# 🏜️ Mark Demidovs
 
 `Full Stack Developer & C++ Enthusiast`
 
