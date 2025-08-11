@@ -6,7 +6,7 @@
 
 hello!! My name is Mark, and I am passionate about Full-Stack development (i.e. PERN stack) as well as C++ programming!! I enjoy exploring different technologies related to these fields (and sometimes completely unreleated),and constantly exploring new tools and techniques to broaden my expertise. Applying my skills, I work on developing applications that broaden my knowledge!! I thrive on making ideas a reality by combining knowledge and creativity, whether I'm creating  websites, coding desktop applications or simply learning a new technology. I have been coding since the age of nine, which has allowed me to build a strong foundation in programming logic and problem-solving from an early age. Additionally, I am proficient in using Linux as my primary development environment, appreciating its freedom that enhance my workflow and support my exploration of various programming languages and technologies!
 
-> ! Please note that most of my repositories are private
+> ! Please note that most of my repositories are private !
 
 https://markdemidovs.github.io/PersonalWebsite/
 
