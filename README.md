@@ -24,4 +24,4 @@ https://markdemidovs.github.io/PersonalWebsite/
 <br>
 <hr>
 <br>
-[6:3] Then the LORD said, "My spirit shall not abide in mortals forever, for they are flesh; their days shall be one hundred twenty years."
+Genesis [6:3] Then the LORD said, "My spirit shall not abide in mortals forever, for they are flesh; their days shall be one hundred twenty years."
