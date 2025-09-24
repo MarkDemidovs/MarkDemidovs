@@ -4,9 +4,7 @@
 
 <img src="6bcf3e674e7c42bc4a882da5885dfa47.gif" width="300px"/>
 
-hello!! My name is Mark, and I am passionate about Full-Stack development (i.e. PERN stack) as well as C++ programming!! I enjoy exploring different technologies related to these fields (and sometimes completely unreleated),and constantly exploring new tools and techniques to broaden my expertise. Applying my skills, I work on developing applications that broaden my knowledge!! I thrive on making ideas a reality by combining knowledge and creativity, whether I'm creating  websites, coding desktop applications or simply learning a new technology. I have been coding since the age of nine, which has allowed me to build a strong foundation in programming logic and problem-solving from an early age. Additionally, I am proficient in using Linux as my primary development environment, appreciating its freedom that enhance my workflow and support my exploration of various programming languages and technologies!
-
-> ! Please note that most of my repositories are private !
+hello, my name is Mark (or more formally known as Mark(uss) Demidovs), and I am deeply passionate about c++ development and full-stack development (mainly PERN stack). I mainly use GitHub for storing my projects, therefore most of my repositories are private. if you're interested in me, please visit my personal website. i'm 15 years old, latvian, male, have been programming since 9 years old and love experimenting with completely anything. i rarely use social medias as a mean of connectivity online, that's why my only currently public social medias are twitter and github. i mainly code on linux, albeit with a new distro every couple of months. currently im on linux mint, but most of these projects have been built with arch linux hyprland as a base. please excuse my github bio as nothing more but a less than formal notation to whatever shenanigans i engage in. 
 
 https://markdemidovs.github.io/PersonalWebsite/
 
