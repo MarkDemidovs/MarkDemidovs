@@ -22,4 +22,4 @@ https://markdemidovs.github.io/PersonalWebsite/
 <br>
 <hr>
 <br>
-Genesis [6:3] Then the LORD said, "My spirit shall not abide in mortals forever, for they are flesh; their days shall be one hundred twenty years."
+Exodus [20:3] "Thou shalt have no other gods before me."
