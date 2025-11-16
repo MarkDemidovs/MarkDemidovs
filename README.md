@@ -7,7 +7,7 @@
 hello, my name is mark (formally known as mark(uss) demidovs), and i am deeply passionate about c++ development and full-stack development (primarily the pern PostgreSQL, Express, React, Node stack). i mainly use github to store my projects, so most of my repositories are private. if you're interested in my work, please visit my personal website. i'm 15 years old, latvian, male, and have been programming since i was 9. i love experimenting with anything and everything. i rarely use social media for online connectivity, which is why my only currently public platforms are twitter and github. i primarily code on linux, switching distros every few months. currently, i am on linux mint, though most of my projects have been built on arch linux hyprland. please consider my github bio nothing more than an informal note on the various shenanigans i engage in. i try to code daily.
 
 https://markdemidovs.github.io/PersonalWebsite/
-<img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fmarkdemidovs">
+<img src="https://media1.tenor.com/m/y68ezLrq4qcAAAAd/phighting-shuriken.gif">
 
 ## :hammer: Here are the tools, libraries, technologies, frameworks and programming languages I am currently working with:
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
