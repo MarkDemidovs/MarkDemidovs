@@ -24,4 +24,4 @@ https://markdemidovs.github.io/PersonalWebsite/
 <br>
 <hr>
 <br>
-Ruth [1:17-20] "Where you die I will die, and there I will be buried. May the LORD deal with me, be it ever so severely, if even death separates you and me.” "
+Ruth [1:17-20] "Where you die I will die, and there I will be buried. May the LORD deal with me, be it ever so severely, if even death separates you and me.”
