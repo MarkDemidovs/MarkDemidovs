@@ -1,27 +1,12 @@
-# 𖦹🍀୭ ˚. ᵎᵎ｡🧷𖦹°‧ Mark Demidovs
+# 🔮 hello there! 
 
-`Full Stack Developer & C++ Enthusiast`
+i'm mark, a 15 year old full stack + c++ developer based in latvia.
 
-<img src="https://media1.tenor.com/m/y68ezLrq4qcAAAAd/phighting-shuriken.gif" width="300px"/>
+i build whatever interests me and propels my skills, but mostly build for expand my own knowledge.
 
-hello, my name is mark (formally known as mark(uss) demidovs), and i am deeply passionate about c++ development and full-stack development (primarily the pern PostgreSQL, Express, React, Node stack). i mainly use github to store my projects, so most of my repositories are private. if you're interested in my work, please visit my personal website. i'm 15 years old, latvian, male, and have been programming since i was 9. i love experimenting with anything and everything. i rarely use social media for online connectivity, which is why my only currently public platforms are twitter and github. i primarily code on linux, switching distros every few months. currently, i am on linux mint, though most of my projects have been built on arch linux hyprland. please consider my github bio nothing more than an informal note on the various shenanigans i engage in. i try to code daily.
+my main tech stack is react, typescript, express and postgresql, though, i am continuously expanding my technical reach by the day! i primarily use visual studio code, figma and obsidian for most of my projects.
 
-https://markdemidovs.github.io/PersonalWebsite/
-<img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fmarkdemidovs">
+i have a bunch of projects under my belt, most of them being private (due to being built for my personal knowledge!)
 
-## :hammer: Here are the tools, libraries, technologies, frameworks and programming languages I am currently working with:
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Node" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-<img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="OpenGL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" />
-<img align="left" alt="SDL(2)" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sdl/sdl-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-
-<br>
-<hr>
-<br>
-Ruth [1:17-20] "Where you die I will die, and there I will be buried. May the LORD deal with me, be it ever so severely, if even death separates you and me.”
+you may reach me via my e-mail (markdemidovs@proton.me) or x!
+i am continuously trying to remake my online identity, so hang on.
