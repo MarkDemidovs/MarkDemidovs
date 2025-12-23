@@ -1,6 +1,6 @@
-# 🔮 hello there! 
+ # 🔮 hello there! 
 
-i'm mark, a 15 year old full stack + c++ developer based in latvia.
+i'm mark (马克), a 15 year old full stack + c++ developer based in latvia.
 
 i build whatever interests me and propels my skills, but mostly build for expand my own knowledge.
 
