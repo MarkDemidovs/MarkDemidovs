@@ -9,4 +9,3 @@ my main tech stack is react, typescript, express and postgresql, though, i am co
 i have a bunch of projects created under my belt, most of them being private (due to being built for my personal knowledge!), but rarely I may create a public project.
 
 you may reach me via my e-mail (markdemidovs@proton.me) or x!
-i am continuously trying to remake my online identity, so hang on.
