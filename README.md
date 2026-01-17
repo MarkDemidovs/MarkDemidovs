@@ -6,4 +6,4 @@ i build whatever interests me and propels my skills, but mostly build for expand
 
 my main tech stack is react, typescript, express and postgresql, though, i am continuously expanding my technical reach by the day! i primarily use visual studio code, figma and obsidian for most of my projects.
 
-you may reach me via my e-mail (markdemidovs@proton.me) or x (markdemidovs), chat freely
+you may reach me via my e-mail (markdemidovs@proton.me) or x (markdemidovs), <- send a message freely, dw i dont bite 
