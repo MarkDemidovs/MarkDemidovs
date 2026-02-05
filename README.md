@@ -6,4 +6,4 @@ i build whatever interests me and propels my skills, but mostly just to explore 
 
 my main tech stack is react, typescript, express and postgresql, though, i am continuously expanding my technical reach by the day! i primarily use visual studio codium, penpot (figma) and obsidian for most of my projects
 
-you may reach me via my x (markdemidovs).
+you may reach me via my x/twitter (markdemidovs).
