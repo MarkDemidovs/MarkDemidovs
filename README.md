@@ -1,9 +1,39 @@
- # 🫧 hello there! 
+<div align="center">
 
-i'm mark (马克), a 15 year old full stack + c++ developer based in latvia.
+  <img src="https://github.com/markdemidovs/markdemidovs/blob/main/assets/header.png" alt="header" width="100%" style="border-radius: 12px; margin-bottom: 2rem;" />
 
-i build whatever interests me and propels my skills, but mostly just to explore new tech
+  <h1 style="font-size: 3.2rem; font-weight: 300; letter-spacing: -0.04em; margin: 1rem 0 0.5rem;">
+    hello there<span style="opacity: 0.6;">.</span>
+  </h1>
 
-my main tech stack is react, typescript, express, router, prisma and postgresql, though i am continuously expanding my technical reach by the day! i primarily use visual studio code, penpot (figma) and obsidian for most of my projects
+  <p style="font-size: 1.35rem; opacity: 0.85; max-width: 580px; margin: 0 auto 2.5rem;">
+    i'm <strong>mark</strong> (马克) — a 15-year-old full-stack + c++ developer from latvia.
+  </p>
 
-you can reach me via my x/twitter (@markdemidovs) or discord @markdemidovs
+  <div style="display: flex; gap: 1.5rem; justify-content: center; flex-wrap: wrap; margin: 2rem 0;">
+    <a href="https://twitter.com/markdemidovs" target="_blank" style="text-decoration: none; color: inherit; font-size: 1.1rem; opacity: 0.8; transition: opacity 0.2s;">
+      𝕏 <span style="margin-left: 0.3rem;">@markdemidovs</span>
+    </a>
+    <span style="opacity: 0.4;">•</span>
+    <a href="https://discord.com/users/markdemidovs" target="_blank" style="text-decoration: none; color: inherit; font-size: 1.1rem; opacity: 0.8; transition: opacity 0.2s;">
+      discord <span style="margin-left: 0.3rem;">@markdemidovs</span>
+    </a>
+  </div>
+
+</div>
+
+---
+
+### about
+
+i build whatever sparks curiosity and pushes my skills forward, mostly to explore new technology and see how far i can take it!
+
+currently obsessed with learning the T3 stack.
+
+### stack
+
+```txt
+frontend →  next.js • typescript • tailwind
+backend  →  express • prisma • postgresql
+systems  →  c++
+tools    →  vscode • penpot • obsidian
