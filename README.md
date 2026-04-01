@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="https://github.com/markdemidovs/markdemidovs/header.png" alt="header" width="100%" style="border-radius: 12px; margin-bottom: 2rem;" />
-
   <h1 style="font-size: 3.2rem; font-weight: 300; letter-spacing: -0.04em; margin: 1rem 0 0.5rem;">
     hello there<span style="opacity: 0.6;">!</span>
   </h1>
