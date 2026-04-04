@@ -24,7 +24,7 @@
 
 ### about
 
-i build whatever sparks curiosity and pushes my skills forward, mostly to explore new technology and see how far i can take it!
+i build whatever sparks curiosity and pushes my skills forward, mostly to explore new technology and see how far i can take my knowledge to!
 
 currently obsessed with learning the T3 stack.
 
