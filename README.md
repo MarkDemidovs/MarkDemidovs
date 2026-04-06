@@ -5,7 +5,7 @@
   </h1>
 
   <p style="font-size: 1.35rem; opacity: 0.85; max-width: 580px; margin: 0 auto 2.5rem;">
-    i'm <strong>mark</strong> (马克) — a 15-year-old full-stack + c++ developer from latvia.
+    i'm <strong>mark</strong> (马克) — a 16-year-old full-stack + c++ developer from latvia.
   </p>
 
   <div style="display: flex; gap: 1.5rem; justify-content: center; flex-wrap: wrap; margin: 2rem 0;">
