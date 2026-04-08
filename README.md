@@ -33,5 +33,5 @@ currently obsessed with learning the T3 stack.
 ```txt
 frontend →  next.js • typescript • tailwind • shadui
 backend  →  express • prisma • postgresql • drizzle
-systems  →  c++ • python
+systems  →  c++ • python • c
 tools    →  vscode • penpot • obsidian
