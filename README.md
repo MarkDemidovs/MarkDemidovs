@@ -17,7 +17,6 @@
       discord <span style="margin-left: 0.3rem;">@markdemidovs</span>
     </a>
   </div>
-
 </div>
 ---
 
