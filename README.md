@@ -32,3 +32,4 @@ frontend →  next.js • typescript • tailwind • shadui
 backend  →  express • prisma • postgresql • drizzle
 systems  →  c++ • python • c
 tools    →  vscode • penpot • obsidian
+```
