@@ -23,7 +23,7 @@
 ### about
 i build whatever sparks curiosity and pushes my skills forward, mostly to explore new technologies and see how far i can take my knowledge to!
 
-currently learning the T3 stack w/ drizzle!
+currently learning the T3 stack w/ drizzle! (i love react.)
 
 ### stack
 
