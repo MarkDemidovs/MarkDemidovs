@@ -29,7 +29,7 @@ currently learning the T3 stack w/ drizzle! (i love react.)
 ### stack
 
 ```txt
-frontend →  next.js • typescript • tailwind • shadui
+frontend →  next.js • typescript • tailwind
 backend  →  express • prisma • postgresql • drizzle
 systems  →  c++ • python • c
 tools    →  vscode • penpot • obsidian
