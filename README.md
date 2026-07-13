@@ -22,9 +22,9 @@
 ---
 
 ### about
-i build whatever sparks curiosity and pushes my skills forward, mostly to explore new technologies and see how far i can take my knowledge to!
+i build whatever sparks curiosity and pushes my skills forward.
 
-currently learning the T3 stack w/ drizzle! (i love react.)
+currently i am trying to apply myself in many fields, especially web development and c++ (alongiside other non developer roles)
 
 ### stack
 
