@@ -31,6 +31,6 @@ currently i am trying to apply myself in many fields, especially web development
 ```txt
 frontend →  next.js • typescript • tailwind
 backend  →  express • prisma • postgresql • drizzle
-systems  →  c++ • python • c
+systems  →  c++ • python 
 tools    →  vscode • penpot • obsidian
 ```
