@@ -30,7 +30,7 @@ currently i am trying to apply myself in many fields, especially web development
 
 ```txt
 frontend →  next.js • typescript • tailwind
-backend  →  express • prisma • postgresql • drizzle
+backend  →  express • postgresql • drizzle
 systems  →  c++ • python • golang
 tools    →  vscode • penpot 
 ```
