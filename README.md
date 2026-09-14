@@ -24,7 +24,7 @@
 ### about
 i build whatever sparks curiosity and pushes my skills forward.
 
-currently i am trying to apply myself in many fields, especially web development and c++ (alongiside other non developer roles)
+currently i am trying to apply myself in many fields, especially web development and database techologies
 
 ### stack
 
