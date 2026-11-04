@@ -32,5 +32,5 @@ currently i am trying to apply myself in many fields, specifically web developme
 frontend →  next.js • typescript • tailwind
 backend  →  express • postgresql • drizzle
 systems  →  c • python • golang
-tools    →  vscode • penpot 
+tools    →  vscode • figma
 ```
