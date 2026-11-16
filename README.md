@@ -31,6 +31,6 @@ currently i am trying to apply myself in many fields, specifically web developme
 ```txt
 frontend →  next.js • typescript • tailwind
 backend  →  express • postgresql • drizzle
-systems  →  c • python • golang
+systems  →  c • python • golang (learning) • java (learning)
 tools    →  vscode • figma
 ```
